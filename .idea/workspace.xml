@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9385a75d-9be4-4137-93af-6e5c2590a224" name="Changes" comment="java">
+    <list default="true" id="9385a75d-9be4-4137-93af-6e5c2590a224" name="Changes" comment="java scanner">
+      <change afterPath="$PROJECT_DIR$/src/CWH_forEachLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_14_string_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_26_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_28_multi_dim_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwh_32_method_overloading.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,28 +38,71 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyScanner">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.calculate">
+    <configuration name="CWH_forEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CWH_forEachLoop" />
       <module name="GitJva" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyScanner" />
+    <configuration name="calculate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculate" />
       <module name="GitJva" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_26_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwh_26_arrays" />
+      <module name="GitJva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_28_multi_dim_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwh_28_multi_dim_arrays" />
+      <module name="GitJva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cwh_32_method_overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.cwh_32_method_overloading" />
+      <module name="GitJva" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyScanner" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.calculate" />
+        <item itemvalue="Application.cwh_32_method_overloading" />
+        <item itemvalue="Application.cwh_28_multi_dim_arrays" />
+        <item itemvalue="Application.CWH_forEachLoop" />
+        <item itemvalue="Application.cwh_26_arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653480807227</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java scanner">
+      <created>1653485094048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653485094048</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java" />
-    <option name="LAST_COMMIT_MESSAGE" value="java" />
+    <MESSAGE value="java scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="java scanner" />
   </component>
 </project>
