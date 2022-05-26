@@ -1,4 +1,4 @@
-package com.company;
+
 
 public class cwh_28_multi_dim_arrays {
     public static void main(String[] args) {
