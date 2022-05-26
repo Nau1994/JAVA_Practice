@@ -1,3 +1,5 @@
+package com.company;
+
 class calculate {
 
     static int add(int ...arr){

@@ -1,3 +1,5 @@
+package com.company;
+
 class CWH_forEachLoop{
     public static void main(String args[]){
         //declaring an array
