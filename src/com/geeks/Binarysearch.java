@@ -34,7 +34,7 @@ class Binarysearch {
     }
 }
 
-// A user-defined class to store domains with id and url
+// A user-defined class to store domains with url and id
 class Domain {
     private int id;
     private String url;
