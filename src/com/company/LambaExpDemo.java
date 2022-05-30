@@ -1,3 +1,4 @@
+package com.company;
 @FunctionalInterface
 interface LambaExp{
     void meth1(int a, int b);
